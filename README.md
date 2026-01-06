@@ -16,7 +16,7 @@ Key focus areas:
 - Clean, scalable layout systems (grid + flex)
 - Advanced CSS styling (blur, gradients, transitions)
 - Responsive behavior across screen sizes
-- Debugging real UI issues (overflow, stacking contexts, clipping)
+- Debugging Typescript UI issues (overflow, stacking contexts, clipping)
 - Production-style component structure
 
 No mock APIs or fake logic — this phase is about **getting the UI right first**.
