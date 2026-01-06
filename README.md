@@ -27,6 +27,7 @@ No mock APIs or fake logic — this phase is about **getting the UI right first*
 
 - **React** (Vite)
 - **Modern CSS**
+- Typescript
   - CSS variables
   - Grid & Flexbox
   - Backdrop filters
